@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\AntonVlasiuk\AntonVlasiuk\bin\Debug\AntonVlasiuk.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AntonVlasiuk\AntonVlasiuk\bin\Debug\AntonVlasiuk.exe
+c:\users\user\documents\visual studio 2015\Projects\AntonVlasiuk\AntonVlasiuk\bin\Debug\AntonVlasiuk.pdb
+c:\users\user\documents\visual studio 2015\Projects\AntonVlasiuk\AntonVlasiuk\obj\Debug\AntonVlasiuk.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AntonVlasiuk\AntonVlasiuk\obj\Debug\AntonVlasiuk.exe
+c:\users\user\documents\visual studio 2015\Projects\AntonVlasiuk\AntonVlasiuk\obj\Debug\AntonVlasiuk.pdb
